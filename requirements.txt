@@ -1,0 +1,14 @@
+pymongo[srv]>=4.6
+pandas
+altair
+plotly
+openpyxl
+xlrd
+numpy
+scikit-learn
+statsmodels
+faker
+pydrive2
+psutil==5.9.8
+importlib_metadata
+streamlit==1.50.0
